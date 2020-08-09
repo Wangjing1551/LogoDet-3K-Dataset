@@ -7,8 +7,8 @@
 In this work, we introduce LogoDet-3K, the largest logo detection dataset with full annotation, which has 3,000 logo categories, about 200,000 manually annotated logo objects and 158,652 images. LogoDet-3K creates a more challenging benchmark for logo detection, for its higher comprehensive coverage and wider variety in both logo categories and annotated objects compared with existing datasets. 
 The statistic comparison of 9 super categories from LogoDet-3K is shown as follows,
 
-| Root Category        | Sub-Category  | Images           | Objects  |
-| ------------- |:-------------:| -----:|
+| Root Category | Sub-Category  | Images|Objects|
+| ------------- |:-------------:| -----:| -----:|
 | Food          |  932 |   53,350    | 64,276 |
 | Clothes       |  604 |   31,266    | 37,601 |
 | Necessities   |  432 |   24,822    | 30,643 |
