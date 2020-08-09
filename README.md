@@ -21,7 +21,7 @@ The statistic comparison of 9 super categories from LogoDet-3K is shown as follo
 |Total          |  3,000 |   158,652 |194,261 | 
 
 ## Download links
-Baidu Drive link: 
+Baidu Drive link: https://pan.baidu.com/s/1sHrbXD_cFdkKke1mttjW4A password:dsx6
 
 Google Drive link: 
 
