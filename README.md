@@ -1,7 +1,7 @@
 # <p align="center"> Logo-2K+:A Large-Scale Logo Dataset for Scalable Logo Classiﬁcation </p>
 
 ## LogoDet-3K-Dataset
-![example](logo/example.png)\
+![example](logo/example.png)
 
 ## Logo-2k+ Dataset Description
 In this work, we introduce LogoDet-3K, the largest logo detection dataset with full annotation, which has 3,000 logo categories, about 200,000 manually annotated logo objects and 158,652 images. LogoDet-3K creates a more challenging benchmark for logo detection, for its higher comprehensive coverage and wider variety in both logo categories and annotated objects compared with existing datasets. 
