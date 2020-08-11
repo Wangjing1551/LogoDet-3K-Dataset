@@ -23,6 +23,7 @@ The statistic comparison of 9 super categories from LogoDet-3K is shown as follo
 ## Download links
 
 Server link: 
+
 Baidu Drive link: https://pan.baidu.com/s/1sHrbXD_cFdkKke1mttjW4A password:dsx6
 
 
