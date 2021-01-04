@@ -20,9 +20,13 @@ The statistic comparison of 9 super categories from LogoDet-3K is shown as follo
 |Medical        |  47  |   3,945     |  5,185 |
 |Total          |  3,000 |   158,652 |194,261 | 
 
-## Download links
+## Download Dataset Links
 
 Server link: 123.57.42.89/Dataset_ict/LogoDet-3K.zip
+
+Baidu Drive link: https://pan.baidu.com/s/1sHrbXD_cFdkKke1mttjW4A password:dsx6
+
+## Download pertrained model Links
 
 Baidu Drive link: https://pan.baidu.com/s/1sHrbXD_cFdkKke1mttjW4A password:dsx6
 
