@@ -18,7 +18,11 @@ The statistic comparison of 9 super categories from LogoDet-3K is shown as follo
 |Leisure        |  111 |   5,685     |  6,573 |
 |Sports         |  66  |   3,945     |  5,041 |
 |Medical        |  47  |   3,945     |  5,185 |
-|Total          |  3,000 |   158,652 |194,261 | 
+|Total          |  3,000 |   158,652 |194,261 |
+
+## LogoDet-3K Dataset Description
+The detailed statistics of LogoDet-3K about Image and object distribution in per category is shown as follows, 
+![example](logo/example.png)
 
 ## Download Dataset Links
 
