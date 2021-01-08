@@ -20,9 +20,17 @@ The statistic comparison of 9 super categories from LogoDet-3K is shown as follo
 |Medical        |  47  |   3,945     |  5,185 |
 |Total          |  3,000 |   158,652 |194,261 |
 
-## LogoDet-3K Dataset Description
-The detailed statistics of LogoDet-3K about Image and object distribution in per category is shown as follows, 
-![example](logo/example.png)
+## LogoDet-3K Dataset Detailed Statistics
+The figure showns the detailed statistics of LogoDet-3K about Image and object distribution in per category, and the number
+of objects in per image and object size in per image.
+![example](logo/statistic.png)
+
+The sorted distribution of images for each logo in LogoDet-3K is shown the figure. We can see that imbalanced distribution across
+different logo categories are one characteristic of LogoDet-3K, posing a challenge for effective logo detection with few samples.
+![example](logo/statistic_histogram.png)
+
+The figure shows the distributions of categories, images and objects from LogoDet-3K on super-classes.
+![example](logo/statistic_superclass.png)
 
 ## Download Dataset Links
 
