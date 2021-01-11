@@ -40,6 +40,6 @@ Baidu Drive link: https://pan.baidu.com/s/1sHrbXD_cFdkKke1mttjW4A password:dsx6
 
 ## Download pertrained model Links
 
-Baidu Drive link: https://pan.baidu.com/s/1sHrbXD_cFdkKke1mttjW4A password:dsx6
+Google Drive link: https://drive.google.com/file/d/1GOYqRy7yoBVAt9Ih375NWtoZZTXN6OET/view?usp=sharing
 
 
