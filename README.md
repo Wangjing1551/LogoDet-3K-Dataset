@@ -36,7 +36,7 @@ The figure shows the distributions of categories, images and objects from LogoDe
 
 Server link: 123.57.42.89/Dataset_ict/LogoDet-3K.zip
 
-Baidu Drive link: https://pan.baidu.com/s/1sHrbXD_cFdkKke1mttjW4A password:dsx6
+Baidu Drive link: https://pan.baidu.com/share/init?surl=ECJ4zOurhMzBgDZ11ekxQA password:1234
 
 ## Download pertrained model Links
 
